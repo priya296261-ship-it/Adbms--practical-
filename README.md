@@ -1,0 +1,2 @@
+# Adbms--practical-
+DDL program 
